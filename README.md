@@ -5,7 +5,7 @@ abbracciare progetti reali. Ho sfidato il conformismo, rinunciando agli studi co
 Web Developer di EPICODE. Sei mesi di totale immersione, ora sono pronto a tuffarmi nel vasto mondo dello sviluppo web. In cerca
 di un'opportunità che dia forma alla mia figura professionale nel settore.
 ### - 📫 How to reach me: ...
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/antonio-francesco-cancemi-bb1b39272)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-francesco-cancemi-bb1b39272)
 [![Email](https://img.shields.io/badge/Email-%232CA01C.svg?logo=maildotru&logoColor=white)](mailto:antoniocancemi1@gmail.com)
 ### - ⚡Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,postman,react,redux,java,postgresql,spring)](https://skillicons.dev)  
