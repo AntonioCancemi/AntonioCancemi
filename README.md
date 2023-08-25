@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=15F74F&center=true&width=435&lines=Hi+!!+I'm+Antonio+Cancemi+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <!--
 **AntonioCancemi/AntonioCancemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
