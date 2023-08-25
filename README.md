@@ -1,4 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=15F74F&center=true&width=435&lines=Hi+!!+I'm+Antonio+Cancemi+Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=15F74F&repeat=false&width=600&lines=Hi!!+I'm+Antonio+Cancemi+Welcome+to+my+GitHub)](https://git.io/typing-svg)
+### - 🔭 About me
+Appassionato di tecnologia, ho acquisito una solida base di Informatica al Politecnico di Torino. Da qui ha preso forma il mio desiderio di
+abbracciare progetti reali. Ho sfidato il conformismo, rinunciando agli studi con un chiaro piano in mente: abbracciare il percorso di Fullstack
+Web Developer di EPICODE. Sei mesi di totale immersione, ora sono pronto a tuffarmi nel vasto mondo dello sviluppo web. In cerca
+di un'opportunità che dia forma alla mia figura professionale nel settore.
+### - 📫 How to reach me: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/antonio-francesco-cancemi-bb1b39272)
+[![Email](https://img.shields.io/badge/Email-%232CA01C.svg?logo=maildotru&logoColor=white)](mailto:antoniocancemi1@gmail.com)
+### - ⚡Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,postman,react,redux,java,postgresql,spring)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=discord,eclipse,git,github,stackoverflow,vscode)](https://skillicons.dev)  
+### - 🌱 Next to learn
+[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs)](https://skillicons.dev)  
 <!--
 **AntonioCancemi/AntonioCancemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
